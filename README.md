@@ -19,7 +19,8 @@ To use TweetBot, you need to install the required Python packages and set up you
 
    ```bash
    git clone https://github.com/your-username/your-repository.git
-   cd your-repository ```
+   cd your-repository 
+   ```
 
 2. Set Up a Virtual Environment (optional but recommended)
 
