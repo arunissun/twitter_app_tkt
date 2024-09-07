@@ -25,7 +25,8 @@ To use TweetBot, you need to install the required Python packages and set up you
 
    ```bash
    python3.11 -m virtualenv venv source venv/bin/activate  
-   # On Windows, use `venv\Scripts\activate` ```
+   On Windows, use venv\Scripts\activate 
+   ```
 
 3. Install Dependecies 
 
