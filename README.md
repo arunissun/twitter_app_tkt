@@ -19,7 +19,7 @@ To use TweetBot, you need to install the required Python packages and set up you
 
    ```bash
    git clone https://github.com/your-username/your-repository.git
-   cd your-repository```
+   cd your-repository ```
 
 2. Set Up a Virtual Environment (optional but recommended)
 
@@ -48,7 +48,8 @@ To use TweetBot, you need to install the required Python packages and set up you
 - **From Source Code**: Alternatively, if running from source code, execute:
 
   ```bash
-  python main.py```
+  python main.py 
+  ```
 
 2. Using the GUI
  - Compose Tweets: Enter tweet text and use the provided options to reply or quote tweets.
